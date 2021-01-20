@@ -121,10 +121,12 @@
 #### セキュリティ
 
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa/) - CyberSyndrome
+* [インターネットの安全・安心ハンドブック](https://www.nisc.go.jp/security-site/handbook/) - 内閣サイバーセキュリティセンター(NISC) (PDF)
 * [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango/) - 光成滋生 (PDF)
 * [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programmingv2/) - 独立行政法人情報処理推進機構(IPA)
 * [はやわかり RSA](http://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
+* [小さな中小企業とNPO向け情報セキュリティハンドブック](https://www.nisc.go.jp/security-site/blue_handbook/) - 内閣サイバーセキュリティセンター(NISC) (PDF)
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [暗号化アルゴリズム ([1])](http://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](http://fussy.web.fc2.com/algo/algo9-2.htm)),  ([3](http://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](http://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
@@ -481,6 +483,7 @@
 
 ### NoSQL
 
+* [etcd book](https://github.com/zoetrope/etcd-book) - zoetro (PDF)
 * [Hibari アプリケーション開発者ガイド](http://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
 * [MongoDBの薄い本](http://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, 濱野司(翻訳) (PDF)
 * [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, @craftgear(翻訳)
