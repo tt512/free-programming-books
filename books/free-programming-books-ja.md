@@ -67,6 +67,7 @@
   * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sather](#sather)
 * [Scala](#scala)
 * [Scheme](#scheme)
@@ -605,6 +606,15 @@
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby/) - why the lucky stiff, 青木靖(翻訳)
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
+
+
+### Rust
+
+* [Rust APIガイドライン](https://sinkuu.github.io/api-guidelines/)
+* [Rust By Example 日本語版](https://doc.rust-jp.rs/rust-by-example-ja/)
+* [Rust ツアー](https://tourofrust.com/00_ja.html)
+* [Rust入門](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003) - mebiusbox
+* [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja/)
 
 
 ### Sather
